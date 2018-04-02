@@ -1,3 +1,3 @@
-1.
-2.
-3.
+1.  CBS had the highest tweet polarity
+2.  CNN had to lowest tweet polarity
+3.  NYTimes Polarity was close to zero
